@@ -3,15 +3,15 @@
 ## Module 1: Communication in a Connected World
 
 - 1.0. Introduction
-- 1.1. Network Types
-- 1.2. Data Transmission
+- 1.1. Network Types → See [Internet vs Intranet](01-Fundamentals/internet-vs-intranet.md)
+- 1.2. Data Transmission → See [Nodes and Links](01-Fundamentals/nodes-and-links.md), [Packets](01-Fundamentals/packets.md)
 - 1.3. Bandwidth and Throughput
 - 1.4. Communications in a Connected World Summary
 
 ## Module 2: Network Components, Types, and Connections
 
 - 2.0. Introduction
-- 2.1. Clients and Servers
+- 2.1. Clients and Servers → See [Client-Server Model](01-Fundamentals/client-server-model.md)
 - 2.2. Network Components
 - 2.3. ISP Connectivity Options
 - 2.4. Network Components, Types, and Connections Summary
@@ -37,7 +37,7 @@
 - 5.0. Introduction
 - 5.1. Communication Protocols
 - 5.2. Communication Standards
-- 5.3. Network Communication Models
+- 5.3. Network Communication Models → See [OSI Model](02-Network-Architecture-Models/osi-model.md), [TCP/IP Model](02-Network-Architecture-Models/tcp-ip-model.md)
 - 5.4. Communication Principles Summary
 
 ## Module 6: Network Media
@@ -56,7 +56,7 @@
 ## Module 8: The Internet Protocol
 
 - 8.0. Introduction
-- 8.1. Purpose of an IPv4 Address
+- 8.1. Purpose of an IPv4 Address → See [IP Hierarchy](03-Addressing-Routing/ip-hierarchy.md)
 - 8.2. The IPv4 Address Structure
 - 8.3. The Internet Protocol Summary
 
@@ -107,16 +107,16 @@
 ## Module 15: TCP and UDP
 
 - 15.0. Introduction
-- 15.1. TCP and UDP
+- 15.1. TCP and UDP → See [TCP/IP Model](02-Network-Architecture-Models/tcp-ip-model.md)
 - 15.2. Port Numbers
 - 15.3. TCP and UDP Summary
 
 ## Module 16: Application Layer Services
 
 - 16.0. Introduction
-- 16.1. The Client Server Relationship
+- 16.1. The Client Server Relationship → See [Client-Server Model](01-Fundamentals/client-server-model.md)
 - 16.2. Network Application Services
-- 16.3. Domain Name System
+- 16.3. Domain Name System → See [DNS Hierarchy](04-Application-Layer/dns-hierarchy.md)
 - 16.4. Web Clients and Servers
 - 16.5. FTP Clients and Servers
 - 16.6. Virtual Terminals
